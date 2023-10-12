@@ -1,2 +1,5 @@
 # .gitignore file
 .ipynb_checkpoints/
+
+# Inputs folder
+Inputs/
